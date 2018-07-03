@@ -1,0 +1,343 @@
+.header {
+    height: 90px;
+}
+
+.logo img {
+    width: 50px;
+    margin-top: 19px;
+}
+
+.logo {
+    float: left;
+    width: 40%;
+    margin-left:  10%;
+}
+
+.menu {
+    width:  -4%;
+}
+
+.menu {
+    float:  left;
+}
+
+.menu ul li {
+    list-style: none;
+    display:  inline;
+    padding: 15px;
+    margin-top:  20px;
+    font-weight:  bold;
+}
+
+.menu ul {
+    margin-top: 30px;
+}
+
+.invite {
+    float:  left;
+}
+.invite {
+    margin-top:  22px;
+}
+
+.invite {
+    width: 138px;
+    height: 35px;
+    
+    border: 1px solid white;
+    text-align:  center;
+    padding:  5px;
+    border-radius: 30px;
+    background : linear-gradient(to left, #29dfa4, #2ec1c0);
+}
+.top {
+    width:  100%;
+    height: 175px;
+    /* background:  aliceblue; */
+    text-align:  center;
+    position:  relative;
+}
+
+.top h2 {
+    padding-top: 51px;
+    color: white;
+    font-family:  segoe ui light;
+    z-index:  2;
+    position:  absolute;
+    width:  100%;
+}
+.momo {
+    position:  absolute;
+    width:  100%;
+    height:  175px;
+     background : linear-gradient(to left, #29dfa4, #2ec1c0);
+    z-index:  1;
+    top:  0%;
+}
+.top {
+    background:url("images/oto.jpg") no-repeat;
+    
+}
+ /* css phÃ¡ÂºÂ§n content */
+ .content1 {
+    position:  relative;
+    height: 2000px;
+    background:  #f6f7f9;
+}
+
+.colleft {
+    width:  60%;
+    /* height:  200px; */
+    /* background:  magenta; */
+    margin-left:  100px;
+    float: left;
+    margin-top:  30px;
+}
+
+.colright {}
+
+.colright {
+    /* height:  200px; */
+    /* background:  antiquewhite; */
+    width: 25%;
+    float:  left;
+    margin-left:  33px;
+    margin-top:  30px;
+}
+.search input[type="text"] {
+    width: 94%;
+    height:  42px;
+    float:  left;
+    /* border: 1px solid #00000014; */
+    padding:  20px;
+    position:  relative;
+    border:  none;
+}
+
+.search i.fa.fa-search {
+    /* float:  left; */
+    font-size:  30px;
+    padding:  6px;
+}
+
+.search {height:  45px;width:  100%;/* border: 1px solid #00000030; */border-radius: 10px;background: white;}
+.theogia,.theohang,.theodong,.theonam,.theoloc {
+    position:  relative;
+    text-align:  left;
+    width:  100%;
+    height: 38px;
+  }
+
+.theogia ,.theohang,.theodong,.theonam,.theoloc{
+    word-wrap:  15%;
+    width:  15%;
+    height:  50px;
+    background: white;
+    margin-top:  20px;
+    float:  left;
+    margin-right:  20px;
+}
+
+.timkiemnangcao .icon1 {
+    float:  left;
+    padding-top:  15px;
+    margin-right: 8px;
+    margin-left:  8px;
+}
+
+.timkiemnangcao .icon2 {
+    padding-top:  16px;
+}
+
+.timkiemnangcao {
+    color: #00000054;
+    height:  90px;
+}
+.searchdetail {
+    height:  30px;
+}
+
+.tongsp {
+    float:  left;
+}
+
+.giathapnhat {
+    float:  left;
+    margin-left:  355px;
+    margin-right:  78px;
+    width: 128px;
+    height:  35px;
+    background: white;
+    text-align:  center;
+    padding:  6px;
+    border-radius: 8px;
+}
+.image {
+    height:  200px;
+    width: 233px;
+    float: left;
+}
+
+.product img {
+    width:  100%;
+}
+
+.product {
+    width:  100%;
+    height: 194px;
+    background: white;
+    margin-top:  23px;
+}
+
+.product h3 {
+    width: 500px;
+    float:  left;
+    margin-left:  43px;
+    height:  38px;
+}
+
+.nguoidang {
+    width:  500px;
+    float:  left;
+    height:  35px;
+    margin-left:  43px;
+}
+
+.tittle {
+    width:  500px;
+    float:  left;
+    height: 46px;
+    margin-left:  40px;
+    color: #00000073;
+}
+.giacaonhat {
+    width: 116px;
+    float:  left;
+    height: 35px;
+    background: white;
+    text-align:  center;
+    padding:  5px;
+    border-radius:  8px;
+}
+.ago {
+    width:  100px;
+    float:  left;
+    margin-left:  45px;
+}
+.cost {
+    width: 136px;
+    float:  left;
+    color:  red;
+    font-size:  20px;
+    margin-left: 265px;
+}
+.xemthem {
+    width: 143px;
+    height: 29px;
+    background: white;
+    border-radius:  8px;
+    text-align:  center;
+    margin-left: 43%;
+    margin-top:  11px;
+    padding:  4px;
+}
+.prdtype {
+    width:  100%;
+    height: 208px;
+    background: white;
+    position:  relative;
+    margin-bottom:  20px;
+    border-radius:  25px;
+}
+
+.prdtype img {
+    position:  absolute;
+    z-index:  1;
+    top: 0;
+    left:  0;
+    width:  100%;
+}
+
+.prdtype h3 {position:  absolute;z-index: 2;font-size:  15px;left:  13px;}
+.prdtype .gach {position:  absolute;z-index: 2;font-size:  15px;left:  13px;top:-6px}
+
+.trang {
+    width: 200px;
+    height: 77px;
+    background: #0000008f;
+    color: white;
+    font-size:  34px;
+    text-align:  center;
+    padding: 10px;
+    border-radius: 23px;
+    position:  fixed;
+    top: 35%;
+    z-index:  3;
+    left: 41%;
+}.footer li {
+    display:  inline;
+    padding:  25px;
+}
+
+.footer {
+    width:  100%;
+    height: 162px;
+    padding:  33px;
+    text-align:  center;
+}.footerfix {
+    width:  100%;
+    height: 80px;
+    background: #000000d1;
+    position:  fixed;
+    bottom:  0;
+    z-index:4
+}
+
+.name {
+    color: #ffffff94;
+    width:  150px;
+    height:  78px;
+    float:  left;
+    margin-left:  100px;
+    margin-top:  30px;
+}
+
+.prdlist {
+    width:  150px;
+    height: 80px;
+    color: #ffffff85;
+    float:  left;
+    margin-top:  21px;
+}
+
+.prdlist :hover {
+    color: #ffffffe0;
+}
+.name :hover {
+    color: #ffffffe0;
+}
+.timkiemnangcao li {
+    list-style:  none;
+    height:  30px;
+    margin-left: -39px;
+}
+
+li {}
+
+.timkiemnangcao ul {
+    width:  200px;
+    background: white;
+    margin-top: 25px;
+}
+
+li {}
+
+.timkiemnangcao li:hover {
+    background: #00000054;
+    text-decoration:none;
+}
+.timkiemnangcao a :hover {
+    color:  black;
+    text-decoration:  none;
+    font-weight:  bold;
+}
